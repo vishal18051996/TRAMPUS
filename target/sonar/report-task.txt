@@ -1,0 +1,6 @@
+projectKey=com.demo.project:devops-training
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.demo.project:devops-training
+ceTaskId=AX4fNof9X81XU7Iba3AS
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AX4fNof9X81XU7Iba3AS
